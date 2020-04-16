@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Heric Patel	    patelheric@gmail.com	@patelheric
 
 # THANKS
 
